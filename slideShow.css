@@ -1,0 +1,18 @@
+body {    
+    background-color: antiquewhite;
+    
+}
+div#container{
+     
+      text-align: center; 
+    
+}
+div#firsImage{
+    align-content: center;
+}
+
+#img{
+    border: solid;
+    height: 200px;
+    width: 300px;
+}
